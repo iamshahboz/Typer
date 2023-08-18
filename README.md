@@ -2,8 +2,7 @@
 
 ### Credits to Bug Bytes youtube channel
 
-``bash
+```bash
 https://www.youtube.com/watch?v=rXAo8zaXQJY
-
-``
+```
 
